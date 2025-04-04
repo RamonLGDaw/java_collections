@@ -1,0 +1,27 @@
+# Archivos compilados
+*.class
+
+# Archivos de logs
+*.log
+
+# Directorios de dependencias y compilación
+.gradle/
+build/
+bin/
+target/
+
+# Archivos específicos de VSCode
+.settings/
+.classpath
+.project
+*.launch
+
+# Archivos del sistema de archivos de Linux
+*~
+*.swp
+
+# Archivos de configuración de editor (si estás usando Vim o similares)
+.vscode/
+
+# Otros archivos de sistema
+.DS_Store  # Aunque es para macOS, algunos editores pueden generarlos en Linux
